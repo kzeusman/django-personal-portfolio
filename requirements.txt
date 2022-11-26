@@ -1,1 +1,131 @@
-  a r g o n 2 - c f f i = = 2 0 . 1 . 0   a s g i r e f = = 3 . 4 . 1   a s y n c - g e n e r a t o r = = 1 . 1 0   a t t r s = = 2 1 . 2 . 0   b a c k c a l l = = 0 . 2 . 0   b l e a c h = = 3 . 3 . 1   c f f i = = 1 . 1 4 . 6   c l i c k = = 8 . 0 . 1   c o l o r a m a = = 0 . 4 . 4   d e b u g p y = = 1 . 3 . 0   d e c o r a t o r = = 5 . 0 . 9   d e f u s e d x m l = = 0 . 7 . 1   D j a n g o = = 3 . 2 . 7   e n t r y p o i n t s = = 0 . 3   i p y k e r n e l = = 6 . 0 . 2   i p y t h o n = = 7.31.1   i p y t h o n - g e n u t i l s = = 0 . 2 . 0   i p y w i d g e t s = = 7 . 6 . 3   i t s d a n g e r o u s = = 2 . 0 . 1   j e d i = = 0 . 1 8 . 0   J i n j a 2 = = 3 . 0 . 1   j s o n s c h e m a = = 3 . 2 . 0   j u p y t e r = = 1 . 0 . 0   j u p y t e r - c l i e n t = = 6 . 1 . 1 2   j u p y t e r - c o n s o l e = = 6 . 4 . 0   j u p y t e r - c o r e = = 4 . 7 . 1   j u p y t e r l a b - p y g m e n t s = = 0 . 1 . 2   j u p y t e r l a b - w i d g e t s = = 1 . 0 . 0   M a r k u p S a f e = = 2 . 0 . 1   m a t p l o t l i b - i n l i n e = = 0 . 1 . 2   m i s t u n e = = 0 . 8 . 4   n b c l i e n t = = 0 . 5 . 3   n b c o n v e r t = = 6 . 1 . 0   n b f o r m a t = = 5 . 1 . 3   n e s t - a s y n c i o = = 1 . 5 . 1   n o t e b o o k = = 6 . 4 . 1   p a c k a g i n g = = 2 1 . 0   p a n d o c f i l t e r s = = 1 . 4 . 3   p a r s o = = 0 . 8 . 2   p i c k l e s h a r e = = 0 . 7 . 5   P i l l o w = = 9.0.1 p r o m e t h e u s - c l i e n t = = 0 . 1 1 . 0   p r o m p t - t o o l k i t = = 3 . 0 . 1 9   p y c p a r s e r = = 2 . 2 0   P y g m e n t s = = 2 . 9 . 0   p y p a r s i n g = = 2 . 4 . 7   p y r s i s t e n t = = 0 . 1 8 . 0   p y t h o n - d a t e u t i l = = 2 . 8 . 2   p y t z = = 2 0 2 1 . 1   p y w i n 3 2 = = 3 0 1   p y w i n p t y = = 1 . 1 . 3   p y z m q = = 2 2 . 1 . 0   q t c o n s o l e = = 5 . 1 . 1   Q t P y = = 1 . 9 . 0   S e n d 2 T r a s h = = 1 . 7 . 1   s i x = = 1 . 1 6 . 0   s q l p a r s e > = 0 . 4 . 2   t e r m i n a d o = = 0 . 1 0 . 1   t e s t p a t h = = 0 . 5 . 0   t o r n a d o = = 6 . 1   t r a i t l e t s = = 5 . 0 . 5   w c w i d t h = = 0 . 2 . 5   w e b e n c o d i n g s = = 0 . 5 . 1   W e r k z e u g = = 2 . 0 . 1   w i d g e t s n b e x t e n s i o n = = 3 . 5 . 1   
+  a r g o n 2 - c f f i = = 2 0 . 1 . 0 
+ 
+ a s g i r e f = = 3 . 4 . 1 
+ 
+ a s y n c - g e n e r a t o r = = 1 . 1 0 
+ 
+ a t t r s = = 2 1 . 2 . 0 
+ 
+ b a c k c a l l = = 0 . 2 . 0 
+ 
+ b l e a c h = = 3 . 3 . 1 
+ 
+ c f f i = = 1 . 1 4 . 6 
+ 
+ c l i c k = = 8 . 0 . 1 
+ 
+ c o l o r a m a = = 0 . 4 . 4 
+ 
+ d e b u g p y = = 1 . 3 . 0 
+ 
+ d e c o r a t o r = = 5 . 0 . 9 
+ 
+ d e f u s e d x m l = = 0 . 7 . 1 
+ 
+ D j a n g o = = 3 . 2 . 7 
+ 
+ e n t r y p o i n t s = = 0 . 3 
+ 
+ i p y k e r n e l = = 6 . 0 . 2 
+ 
+ i p y t h o n = = 7.31.1 
+ 
+ i p y t h o n - g e n u t i l s = = 0 . 2 . 0 
+ 
+ i p y w i d g e t s = = 7 . 6 . 3 
+ 
+ i t s d a n g e r o u s = = 2 . 0 . 1 
+ 
+ j e d i = = 0 . 1 8 . 0 
+ 
+ J i n j a 2 = = 3 . 0 . 1 
+ 
+ j s o n s c h e m a = = 3 . 2 . 0 
+ 
+ j u p y t e r = = 1 . 0 . 0 
+ 
+ j u p y t e r - c l i e n t = = 6 . 1 . 1 2 
+ 
+ j u p y t e r - c o n s o l e = = 6 . 4 . 0 
+ 
+ j u p y t e r - c o r e = = 4 . 7 . 1 
+ 
+ j u p y t e r l a b - p y g m e n t s = = 0 . 1 . 2 
+ 
+ j u p y t e r l a b - w i d g e t s = = 1 . 0 . 0 
+ 
+ M a r k u p S a f e = = 2 . 0 . 1 
+ 
+ m a t p l o t l i b - i n l i n e = = 0 . 1 . 2 
+ 
+ m i s t u n e = = 0 . 8 . 4 
+ 
+ n b c l i e n t = = 0 . 5 . 3 
+ 
+ n b c o n v e r t = = 6 . 1 . 0 
+ 
+ n b f o r m a t = = 5 . 1 . 3 
+ 
+ n e s t - a s y n c i o = = 1 . 5 . 1 
+ 
+ n o t e b o o k = = 6 . 4 . 1 
+ 
+ p a c k a g i n g = = 2 1 . 0 
+ 
+ p a n d o c f i l t e r s = = 1 . 4 . 3 
+ 
+ p a r s o = = 0 . 8 . 2 
+ 
+ p i c k l e s h a r e = = 0 . 7 . 5 
+ 
+ P i l l o w = = 9.2.0
+ 
+ p r o m e t h e u s - c l i e n t = = 0 . 1 1 . 0 
+ 
+ p r o m p t - t o o l k i t = = 3 . 0 . 1 9 
+ 
+ p y c p a r s e r = = 2 . 2 0 
+ 
+ P y g m e n t s = = 2 . 9 . 0 
+ 
+ p y p a r s i n g = = 2 . 4 . 7 
+ 
+ p y r s i s t e n t = = 0 . 1 8 . 0 
+ 
+ p y t h o n - d a t e u t i l = = 2 . 8 . 2 
+ 
+ p y t z = = 2 0 2 1 . 1 
+ 
+ p y w i n 3 2 = = 3 0 1 
+ 
+ p y w i n p t y = = 1 . 1 . 3 
+ 
+ p y z m q = = 2 2 . 1 . 0 
+ 
+ q t c o n s o l e = = 5 . 1 . 1 
+ 
+ Q t P y = = 1 . 9 . 0 
+ 
+ S e n d 2 T r a s h = = 1 . 7 . 1 
+ 
+ s i x = = 1 . 1 6 . 0 
+ 
+ s q l p a r s e > = 0 . 4 . 2 
+ 
+ t e r m i n a d o = = 0 . 1 0 . 1 
+ 
+ t e s t p a t h = = 0 . 5 . 0 
+ 
+ t o r n a d o = = 6 . 1 
+ 
+ t r a i t l e t s = = 5 . 0 . 5 
+ 
+ w c w i d t h = = 0 . 2 . 5 
+ 
+ w e b e n c o d i n g s = = 0 . 5 . 1 
+ 
+ W e r k z e u g = = 2 . 0 . 1 
+ 
+ w i d g e t s n b e x t e n s i o n = = 3 . 5 . 1 
+ 
+ 
