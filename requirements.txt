@@ -78,7 +78,7 @@
  
  p i c k l e s h a r e = = 0 . 7 . 5 
  
- P i l l o w = = 9.2.0
+ P i l l o w = = 9.3.0
  
  p r o m e t h e u s - c l i e n t = = 0 . 1 1 . 0 
  
