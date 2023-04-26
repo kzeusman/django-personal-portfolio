@@ -110,7 +110,7 @@
  
  s i x = = 1 . 1 6 . 0 
  
- s q l p a r s e > = 0 . 4 . 2 
+ s q l p a r s e > = 0 . 4 . 4
  
  t e r m i n a d o = = 0 . 1 0 . 1 
  
