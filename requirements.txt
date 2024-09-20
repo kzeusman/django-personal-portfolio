@@ -22,7 +22,7 @@
  
  d e f u s e d x m l = = 0 . 7 . 1 
  
- D j a n g o = = 3 . 2 . 24 
+ D j a n g o = = 3 . 2 . 5
  
  e n t r y p o i n t s = = 0 . 3 
  
