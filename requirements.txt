@@ -124,7 +124,7 @@
  
  w e b e n c o d i n g s = = 0 . 5 . 1 
  
- W e r k z e u g = = 3 . 0 . 3 
+ W e r k z e u g = = 3 . 0 . 6
  
  w i d g e t s n b e x t e n s i o n = = 3 . 5 . 1 
  
