@@ -22,8 +22,8 @@
  
  d e f u s e d x m l = = 0 . 7 . 1 
  
- D j a n g o = = 4 . 2 . 22
- 
+ D j a n g o = = 4 . 2 . 26
+
  e n t r y p o i n t s = = 0 . 3 
  
  i p y k e r n e l = = 6 . 0 . 2 
