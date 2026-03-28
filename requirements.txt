@@ -110,8 +110,8 @@
  
  s i x = = 1 . 1 6 . 0 
  
- s q l p a r s e > = 0.5.0
- 
+ s q l p a r s e > = 0.5.4
+
  t e r m i n a d o = = 0 . 1 0 . 1 
  
  t e s t p a t h = = 0 . 5 . 0 
@@ -124,7 +124,7 @@
  
  w e b e n c o d i n g s = = 0 . 5 . 1 
  
- W e r k z e u g = = 3 . 1 . 5
+ W e r k z e u g = = 3 . 1 . 6
  
  w i d g e t s n b e x t e n s i o n = = 3 . 5 . 1 
  
